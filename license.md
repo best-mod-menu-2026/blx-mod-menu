@@ -9,7 +9,7 @@ The **🔧 Blx Mod Menu** is the most comprehensive and powerful mod menu for Ro
 
 <div align="center">
 
-[![Download Blx Mod Menu](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/blx-mod-menu)
+[![Download Blx Mod Menu](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/blx-mod-menu)
 
 </div>
 
@@ -220,7 +220,7 @@ One mod menu. Unlimited features. Zero cost.
 
 <div align="center">
 
-[![Download Blx Mod Menu](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/blx-mod-menu)
+[![Download Blx Mod Menu](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/blx-mod-menu)
 
 **Version 2026.130.1** — Ultimate Roblox mod menu. Free forever.
 
